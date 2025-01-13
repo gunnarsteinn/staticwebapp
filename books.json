@@ -1,0 +1,122 @@
+[
+  {
+    "ID": 1,
+    "Name": "The Whispering Pages",
+    "Description": "A haunting tale of mystery set in a forgotten library where books come to life at night.",
+    "Price": 19.99
+  },
+  {
+    "ID": 2,
+    "Name": "Quantum Quill",
+    "Description": "A mind-bending science fiction novel exploring parallel universes through the art of writing.",
+    "Price": 24.50
+  },
+  {
+    "ID": 3,
+    "Name": "Echoes of Eternity",
+    "Description": "An epic historical saga spanning centuries, following an immortal's journey through time.",
+    "Price": 29.99
+  },
+  {
+    "ID": 4,
+    "Name": "The Culinary Alchemist",
+    "Description": "A whimsical cookbook filled with recipes that promise to transform ordinary meals into magical feasts.",
+    "Price": 34.95
+  },
+  {
+    "ID": 5,
+    "Name": "Whispers in the Wind",
+    "Description": "A heartwarming romance novel set in a small coastal town where secrets are carried by the sea breeze.",
+    "Price": 18.75
+  },
+  {
+    "ID": 6,
+    "Name": "The Pixel Prophecy",
+    "Description": "A thrilling cyberpunk adventure where reality and virtual worlds collide in a fight for humanity's future.",
+    "Price": 22.99
+  },
+  {
+    "ID": 7,
+    "Name": "Mindful Metamorphosis",
+    "Description": "A transformative self-help guide to unlocking your potential through mindfulness and personal growth.",
+    "Price": 15.50
+  },
+  {
+    "ID": 8,
+    "Name": "The Forgotten Constellation",
+    "Description": "An awe-inspiring exploration of ancient celestial myths and their connection to modern astronomy.",
+    "Price": 27.00
+  },
+  {
+    "ID": 9,
+    "Name": "Shadows of Serendipity",
+    "Description": "A collection of interconnected short stories where chance encounters lead to life-changing moments.",
+    "Price": 20.25
+  },
+  {
+    "ID": 10,
+    "Name": "The Quantum Gardener",
+    "Description": "A quirky guide to cultivating your own universe through the principles of quantum physics and horticulture.",
+    "Price": 23.99
+  },
+  {
+    "ID": 11,
+    "Name": "Echoes of the Abyss",
+    "Description": "A chilling horror novel set in a deep-sea research facility where ancient terrors awaken.",
+    "Price": 21.50
+  },
+  {
+    "ID": 12,
+    "Name": "The Laughing Phoenix",
+    "Description": "A hilarious memoir of a comedian's journey from rock bottom to rising star, filled with wit and wisdom.",
+    "Price": 17.99
+  },
+  {
+    "ID": 13,
+    "Name": "Chrono Cartographer",
+    "Description": "An illustrated guide to mapping the flow of time, blending philosophy, physics, and artistry.",
+    "Price": 32.00
+  },
+  {
+    "ID": 14,
+    "Name": "The Syntax of Spells",
+    "Description": "A fantasy novel where magic is cast through the power of grammar and punctuation.",
+    "Price": 26.50
+  },
+  {
+    "ID": 15,
+    "Name": "Whispers of the Algorithm",
+    "Description": "A thought-provoking exploration of how AI is reshaping human creativity and consciousness.",
+    "Price": 28.75
+  },
+  {
+    "ID": 16,
+    "Name": "The Origami Oracle",
+    "Description": "A unique divination guide using the art of paper folding to unlock the secrets of the future.",
+    "Price": 19.25
+  },
+  {
+    "ID": 17,
+    "Name": "Neon Noir",
+    "Description": "A gritty detective thriller set in a futuristic city where dreams can be bought, sold, and stolen.",
+    "Price": 23.50
+  },
+  {
+    "ID": 18,
+    "Name": "The Quantum Quiche Cookbook",
+    "Description": "A humorous cookbook that applies quantum mechanics principles to create impossibly delicious quiches.",
+    "Price": 25.99
+  },
+  {
+    "ID": 19,
+    "Name": "Echoes of Empathy",
+    "Description": "A powerful collection of essays exploring the importance of compassion in an increasingly divided world.",
+    "Price": 16.75
+  },
+  {
+    "ID": 20,
+    "Name": "The Fractal Philosopher",
+    "Description": "A mind-expanding journey through the repeating patterns of nature, mathematics, and human thought.",
+    "Price": 30.50
+  }
+]
